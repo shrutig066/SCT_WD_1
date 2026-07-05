@@ -151,9 +151,6 @@ screenshots/
 
 **Shruti Gaikwad**
 
-GitHub:
-https://github.com/yourusername
-
 LinkedIn:
 https://linkedin.com/in/yourprofile
 
