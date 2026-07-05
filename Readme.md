@@ -6,14 +6,6 @@ This project showcases a premium user interface with smooth animations, glassmor
 
 ---
 
-## 🚀 Live Demo
-
-Add your GitHub Pages link here after deployment.
-
-Example:
-
-https://yourusername.github.io/SCT_WD_1/
-
 ---
 
 ## 📸 Preview
